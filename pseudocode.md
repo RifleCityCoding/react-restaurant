@@ -10,7 +10,7 @@
 
 - [x] install bootstrap via npm
 
-- [] Access API information using Axios
+- [x] Access API information using Axios
 
 - [] Create a restaurant menu
 
