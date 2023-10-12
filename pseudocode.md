@@ -22,7 +22,7 @@ What do we want to display on our restaurant site?
     -Address : 348 East Main Street Lexington, KY
     -Hours of Operation: 11a-8p
  - Accordions displaying menu items
-    -Size and position : I want 2 accordions above and 2 accordions below.
+    -Size and position : We want 2 accordions above and 2 accordions below.
     - Background picture of a dining room, cafe maybe?
     - Lets shoot for a different header look as not to blend too much with background of accordions
     - Do we want accordions to be clear and show background behind or have their own coloring?
@@ -50,6 +50,25 @@ What do we want to display on our restaurant site?
 
         
 ```
-</summary>
 
+</summary>
+<summary>
+    ```
+    #### Must Haves
+    Basic Menu Structure:
+       - Different available menus using React Components
+       - Menu items and details acquired by API
+    
+    ####  Should Haves  
+        - Visually appealing page and function on different screen adjustments / mobile
+        - Order menu / shopping cart for online ordering
+     ### Could Haves
+        - User logins
+        - Ratings and reviews
+        
+     ### Won't Haves
+        - Payment options
+        - Admin panel for restaurant staff
+    ```
+</summary>
 </details>
