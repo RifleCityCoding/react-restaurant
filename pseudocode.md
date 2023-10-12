@@ -1,6 +1,7 @@
 # React Restaurant Pseudocode
 <details>
-<summary> ## Project Requirements
+<summary>
+ ## Project Requirements
 ```
 - [x] Create a wireframe of restaurant site
 - [] Generate restaurant name / address / hours of operation
