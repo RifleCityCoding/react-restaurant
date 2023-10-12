@@ -1,7 +1,6 @@
 # React Restaurant Pseudocode
 <details>
-<summary>
- ## Project Requirements
+<summary>## Project Requirements </summary>
 ```
 - [x] Create a wireframe of restaurant site
 - [] Generate restaurant name / address / hours of operation
@@ -13,9 +12,9 @@
         - [] Render items using API
 - [] Manage React Component State
 ```
-</summary>
-<summary>
-## Build-up for project
+</details>
+<details>
+<summary>## Build-up for project</summary>
 ```
 What do we want to display on our restaurant site?
  - Need a header with content 
@@ -33,29 +32,18 @@ What do we want to display on our restaurant site?
     -Maybe adding a randomizer for when each accordion is closed it changes the options?
     - Lets have 4 accordions
         - Appetizer
-            ```
-            
-            ```
-        - Brunch
-            ```
-            
-            ```
-        - Entreé
-            ```
-            
-            ```
-        - Drinks
-            ```
-            
-            ```
-
         
-```
+        - Brunch
+         
+        - Entreé
+          
+        - Drinks
+           ```
+</details>
 
-</summary>
-<summary>
-    ```
-    #### Must Haves
+<details>
+
+<summary> #### Must Haves </summary>
     Basic Menu Structure:
        - Different available menus using React Components
        - Menu items and details acquired by API
@@ -71,5 +59,5 @@ What do we want to display on our restaurant site?
         - Payment options
         - Admin panel for restaurant staff
     ```
-</summary>
+
 </details>
