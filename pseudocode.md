@@ -2,7 +2,7 @@
 <details>
 <summary>Project Requirements </summary>
 
-```
+
 
 - [x] Create a wireframe of restaurant site
 
@@ -22,12 +22,12 @@
 
 - [] Manage React Component State
 
-```
+
 </details>
 
 <details>
 <summary>Build-up for project</summary>
-```
+
 What do we want to display on our restaurant site?
 
  - Need a header with content 
@@ -66,7 +66,7 @@ What do we want to display on our restaurant site?
           
         - Drinks
 
-  ```     
+   
 </details>
 
 <details>
