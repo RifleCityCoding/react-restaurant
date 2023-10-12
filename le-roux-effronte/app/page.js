@@ -18,6 +18,7 @@ export default function Home() {
       });
   }, []);
 
+  // Display our information to the page
   return (
     <div>
       {data ? <pre>{JSON.stringify(data, null, 2)}</pre> : <p>Loading...</p>}
