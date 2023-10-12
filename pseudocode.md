@@ -1,7 +1,9 @@
 # React Restaurant Pseudocode
 <details>
 <summary>Project Requirements </summary>
+
 ```
+
 - [x] Create a wireframe of restaurant site
 
 - [] Generate restaurant name / address / hours of operation
@@ -64,7 +66,7 @@ What do we want to display on our restaurant site?
           
         - Drinks
 
-           ```
+  ```     
 </details>
 
 <details>
