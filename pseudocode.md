@@ -73,8 +73,9 @@ What do we want to display on our restaurant site?
 <summary>MoSCoW</summary>
 
 #### Must Haves
- Basic Menu Structure:
 
+        - Basic Menu Structure:
+        
        - Different available menus using React Components
 
        - Menu items and details acquired by API
