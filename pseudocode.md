@@ -70,9 +70,10 @@ What do we want to display on our restaurant site?
 </details>
 
 <details>
-<summary>Must Haves </summary>
+<summary>MoSCoW</summary>
 
-#### Basic Menu Structure:
+#### Must Haves
+ Basic Menu Structure:
 
        - Different available menus using React Components
 
@@ -92,3 +93,5 @@ What do we want to display on our restaurant site?
     ```
 
 </details>
+
+
