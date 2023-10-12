@@ -3,6 +3,7 @@ import styles from "./page.module.css";
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import MainHeader from "./MainHeader";
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -29,7 +30,7 @@ export default function Home() {
       width: '100vw',
       height: '200vh',
     }}>
-
+      <MainHeader />
     </main>
   );
 }
