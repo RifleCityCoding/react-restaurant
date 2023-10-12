@@ -74,7 +74,7 @@ What do we want to display on our restaurant site?
 
 #### Must Haves
 
-        - Basic Menu Structure:
+        - Basic Menu Structure
         
        - Different available menus using React Components
 
