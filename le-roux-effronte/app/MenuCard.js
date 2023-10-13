@@ -25,7 +25,7 @@ export default function MenuCard({ data }) {
       <div>
         <Card style={{ width: "18rem" }}>
           <Card.Body>
-            <MenuAccord data={data} text={"Lunch"} />
+            <MenuAccord data={data} text={"Dinner"}{"Lunch"} />
           </Card.Body>
         </Card>
       </div>
