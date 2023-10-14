@@ -6,7 +6,7 @@ export default function MenuCard({ data }) {
     <main>
         <div className="Row">
       <div>
-        <Card style={{ width: "18rem" }}>
+        <Card style={{ width: "18rem" }} >
           <Card.Body>
           <MenuAccord data={data} text={"Appetizer"} />
           </Card.Body>
@@ -32,11 +32,11 @@ export default function MenuCard({ data }) {
       <div>
         <Card style={{ width: "18rem" }}>
           <Card.Body>
-          <MenuAccord data={data} text={"Drinks"}/>
+          <MenuAccord data={data} text={"Drink"}/>
           </Card.Body>
         </Card>
       </div>
-      
+
     </main>
   );
 }
